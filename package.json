@@ -1,0 +1,21 @@
+{
+    "name": "autumn-earth",
+    "displayName": "Autumn Earth",
+    "description": "Autumn Earth",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Autumn Earth",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Autumn Earth-color-theme.json"
+            }
+        ]
+    }
+}
