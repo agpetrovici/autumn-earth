@@ -1,7 +1,8 @@
 {
     "name": "autumn-earth",
     "displayName": "Autumn Earth",
-    "description": "Autumn Earth",
+    "description": "Brown colors inspired in autumn.",
+    "publisher": "alejandropetrovici",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
