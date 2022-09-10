@@ -1,2 +1,2 @@
 # README
-Custom brown theme inspired in autumn colors.
+Custom VSC theme inspired in autumn colors.
